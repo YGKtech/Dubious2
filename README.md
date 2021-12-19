@@ -1,6 +1,6 @@
 Dubious2 - Box Controller based on the Fake1 (which is based on the Frame1)
 
-After building my first DIY box controller using the Fake1 model, I liked the concept, but wanted to make a few changes. I did not design this from scratch, I just spent a lot of time dragging around parts in borddy's fake1 model, and immitating his work when I needed to add new geometry.
+After building my first DIY box controller using the Fake1 model (https://www.thingiverse.com/thing:4917086), I liked the concept, but wanted to make a few changes. I did not design this from scratch, I just spent a lot of time dragging around parts in borddy's fake1 model, and immitating his work when I needed to add new geometry.
 
 
 Here's a list of all the notable adjustments I made:
